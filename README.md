@@ -12,7 +12,7 @@
 ![JupiterLab](https://github.com/dropdeadsss/lab_1_2/blob/main/imgs/test_jupiter.JPG)
 
 #### Работа в MLflow.
-После запуска сервера MLflow *mlflow server --backend-store-uri sqlite:///mlflow.db --default artifact-root ./mlruns --host 0.0.0.0 --port 20001* мы можем зайти в браузере по его адресу для работы с интерфесом.
+После запуска сервера MLflow *mlflow server --backend-store-uri sqlite:///mlflow.db --default artifact-root ./mlruns --host 0.0.0.0 --port 20001* мы можем зайти в браузере по его адресу для работы с интерфейсом.
 
 Подготовив и выполнив скрипт [mlflow_basic.py](https://github.com/dropdeadsss/lab_1_2/blob/main/mlflow_basic.py) появился 1 эксперимент, который можно увидеть через интерфейс.
 
