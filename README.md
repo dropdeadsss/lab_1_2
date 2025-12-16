@@ -25,6 +25,7 @@
 ![MLflow](https://github.com/dropdeadsss/lab_1_2/blob/main/imgs/compare.JPG)
 
 После смены алгоритма оптимизации ни один параметр не изменился.
+
 Добавим еще один параметр log_loss
 
 ![MLflow](https://github.com/dropdeadsss/lab_1_2/blob/main/imgs/mlflow_overview_3.JPG)
